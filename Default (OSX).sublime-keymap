@@ -1,0 +1,7 @@
+[
+  { "keys": ["super+k", "super+shift+m"], "command": "next_bookmark" },
+  { "keys": ["super+k", "super+ctrl+m"], "command": "prev_bookmark" },
+  { "keys": ["super+k", "super+m"], "command": "toggle_bookmark" },
+  { "keys": ["super+k", "shift+alt+super+m"], "command": "clear_bookmarks" },
+  { "keys": ["super+k", "ctrl+alt+super+m"], "command": "select_all_bookmarks" },
+]
